@@ -1,0 +1,248 @@
+Id,Label,type,eigencentrality
+Archive Ontology (ArCo network),,Ontology,0.040156
+ARIADNE Object Catalogue Ontology,,Ontology,0.078852
+ARKIVO Ontology,,Ontology,0.040156
+Beyond Archaeology (BeArchaeo),,Ontology,0.085428
+Bibliographic Ontology,,Ontology,0.006891
+Catalogue Ontology (ArCo network),,Ontology,0.040156
+Cataloguing Campaign Ontology (ArCo network),,Ontology,0.040156
+CIDOC Conceptual Reference Model,,Ontology,0.107463
+CIDOC Conceptual Reference Model - Argumentation Model (CRMinf),,Ontology,0.00213
+CIDOC Conceptual Reference Model - Environmental Archaeology Extension (CRM-EH),,Ontology,0.078852
+CIDOC Conceptual Reference Model - Excavation Model (CRMarchaeo),,Ontology,0.078852
+CIDOC Conceptual Reference Model - Model for Archaeological Buildings (CRMba),,Ontology,0.156697
+CIDOC Conceptual Reference Model - Model for Provenance Data (CRMdig),,Ontology,0.003907
+CIDOC Conceptual Reference Model - Model for Social Phenomena (CRMsoc),,Ontology,0.004111
+CIDOC Conceptual Reference Model - Model for the Study of Ancient Texts (CRMtex),,Ontology,0.028013
+CIDOC Conceptual Reference Model - Spatiotemporal Model (CRMgeo),,Ontology,0.099486
+CIDOC Conceptual Reference Model - The Scientific Observation Model (CRMsci),,Ontology,0.138845
+"CiTO, the Citation Typing Ontology",,Ontology,0.006891
+Clothing Description Ontology (ArCo network),,Ontology,0.004829
+Construction Description Ontology (ArCo network),,Ontology,0.077844
+Context Description (ArCo Network),,Ontology,0.00213
+Core Ontology (ArCo Network),,Ontology,0.047442
+Cultural Event Ontology (ArCo network),,Ontology,0.003209
+Cultural Gems,,Ontology,0
+Cultural-ON (Cultural ONtology): Ontologia dei Luoghi della Cultura e degli Eventi Culturali,,Ontology,0.007523
+Decision-Making in Conservation and Restoration Interventions of Cultural Heritage (DCRI),,Ontology,0.006592
+Denotative Description Ontology (ArCo network),,Ontology,0.193278
+EpiONT,,Ontology,0.00213
+Factoid Prosopography Ontology (FPO),,Ontology,0.004492
+FRBR-aligned Bibliographic Ontology (FaBiO),,Ontology,0.006891
+Friend of a Friend (FOAF),,Ontology,0.004314
+ICON Ontology,,Ontology,0.004693
+Iconclass,,Ontology,0
+Index Medii Aevi Geographiae Operum,,Ontology,0.00487
+ITDT Ontology: Extension of RiC Ontology for Architectural Archives,,Ontology,0.077844
+"Library Reference Model object-oriented (LRMoo, formerly FRBRoo)",,Ontology,0.006891
+Location Ontology (ArCo network),,Ontology,0.05681
+Modeling of Bibliographic Information Pertaining to Continuing Resources (PRESSoo),,Ontology,0.006891
+Musical Instrument Ontology (ArCo network),,Ontology,0.004827
+Natural Specimen Description Ontology (ArCo network),,Ontology,0
+Nomisma,,Ontology,0.00213
+0,Sampling,Tag,0
+Philology-Oriented Graphematics Ontology,,Ontology,0.030748
+Preservation Metadata: Implementation Strategies Ontology (PREMIS Ontology),,Ontology,0.051349
+PROV-O Ontology,,Ontology,0.047442
+Records in Contexts Ontology,,Ontology,0.040156
+Seafaring Lives in Transition Ontology,,Ontology,0.033795
+The Archive Dynamics Ontology (ArDO),,Ontology,0.040156
+The Bibliometric Data Ontology (BiDO),,Ontology,0.006891
+The Historical Context Ontology,,Ontology,0.007721
+The Music Ontology,,Ontology,0.004827
+Alexandria Digital Library (ADL) Feature Type Thesaurus,,Thesaurus,0.05681
+Archaeological Objects (Scotland),,Thesaurus,0.133257
+Cairo Gazetteer,,Thesaurus,0.213506
+Catégories techniques et domaines principaux de classement des biens culturels - Inventaire/MH,,Thesaurus,0.010143
+CILLA/MUSA - Specialtesaurus för musik,,Thesaurus,0.004827
+CIMEC - Tezaure terminologice,,Thesaurus,0.306694
+Common Geographic Areas (CGA),,Thesaurus,0.05681
+Condition Trend (Wales),,Thesaurus,0.017527
+Consortium of European Research Libraries (CERL) Thesaurus,,Thesaurus,0.012242
+Cultural Objects Name Authority (CONA),,Thesaurus,0.186155
+Dating Criteria (EAGLE Vocabulary),,Thesaurus,0.070689
+Decoration (EAGLE Vocabulary),,Thesaurus,0.057472
+Digitizing Early Farming Cultures (DEFC) Thesaurus,,Thesaurus,0.212109
+Etat de conservation du patrimoine mobilier - Inventaire/MH,,Thesaurus,0.017527
+Execution Technique (EAGLE Vocabulary),,Thesaurus,0.038156
+Farmsteads,,Thesaurus,0.077844
+First World War Project,,Thesaurus,0.077844
+FISH Archaeological Event Types,,Thesaurus,0.126294
+FISH Archaeological Objects,,Thesaurus,0.212109
+FISH Archaeological Sciences,,Thesaurus,0.212109
+FISH Building Materials,,Thesaurus,0.202777
+FISH Components,,Thesaurus,0.289953
+FISH Evidence,,Thesaurus,0.126294
+FISH Heritage Subjects and Themes,,Thesaurus,0.047442
+FISH Maritime Cargo Types,,Thesaurus,0.167051
+FISH Maritime Craft Types,,Thesaurus,0.167051
+FISH Maritime Fixtures and Fittings,,Thesaurus,0.167051
+FISH Maritime Nationality,,Thesaurus,0.081236
+FISH Maritime Ordnance Type,,Thesaurus,0.172507
+FISH Maritime Place Names,,Thesaurus,0.090604
+FISH Resource Description,,Thesaurus,0.087598
+FISH Thesaurus of Monument Types,,Thesaurus,0.156697
+General Multilingual Environmental Thesaurus (GEMET),,Thesaurus,0.047442
+Getty Iconography Authority (IA),,Thesaurus,0.004693
+Getty Thesaurus of Geographic Names (TGN),,Thesaurus,0.064531
+Graphikvokabular,,Thesaurus,0.039924
+Heritage Crime,,Thesaurus,0.00213
+Historic Aircraft Types,,Thesaurus,0.140978
+Historic Characterization Thesaurus,,Thesaurus,0.138046
+Historic England Archive Type Thesaurus,,Thesaurus,0.087598
+Historic England Maritime Object Material,,Thesaurus,0.079875
+Historic England Periods,,Thesaurus,0.042676
+Historic England Threat Type,,Thesaurus,0.017527
+Homosaurus,,Thesaurus,0.004111
+iDAI.world Thesaurus,,Thesaurus,0.047442
+"Inscriptions, marques, emblématique et poinçons",,Thesaurus,0.16127
+Iron-Age-Danube,,Thesaurus,0.145631
+ISO 19115 Topic Category,,Thesaurus,0.05681
+"Lexique de l'escalier et des autres organes de circulation: emplacement, forme et structure - Inventaire/MH",,Thesaurus,0.077844
+Lexique: parti de plan - Inventaire/MH,,Thesaurus,0.077844
+Liste d'autorité Actions pour l'indexation des archives locales,,Thesaurus,0.040156
+Liste d'autorité Contexte historique pour l'indexation des archives locales,,Thesaurus,0.082833
+Liste d'autorité Typologie documentaire pour l'indexation des archives locales,,Thesaurus,0.040156
+Liste d'autorités Auteurs - Joconde,,Thesaurus,0.099301
+Liste d'autorités Découverte - Joconde,,Thesaurus,0.250088
+Liste d'autorités Dénomination - Joconde,,Thesaurus,0.193278
+Liste d'autorités Domaines - Joconde,,Thesaurus,0.292764
+Liste d'autorités Écoles - Joconde,,Thesaurus,0.14629
+Liste d'autorités Époques - Joconde,,Thesaurus,0.132156
+Liste d'autorités Genèse - Joconde,,Thesaurus,0.136922
+Liste d'autorités Inscriptions - Joconde,,Thesaurus,0.088035
+Liste d'autorités Lieux - Joconde,,Thesaurus,0.116831
+Liste d'autorités Périodes - Joconde,,Thesaurus,0.102698
+Liste d'autorités Techniques – Joconde,,Thesaurus,0.116245
+Lithologic Classification of Geologic Map Units,,Thesaurus,0.012551
+Manner of Loss,,Thesaurus,0.133257
+Maritime Construction Type,,Thesaurus,0.167051
+Maritime Craft (Scotland),,Thesaurus,0.167051
+Maritime Propulsion Type,,Thesaurus,0.167051
+Material (EAGLE Vocabulary),,Thesaurus,0.086644
+Matériau de la couverture,,Thesaurus,0.123925
+Matériau du gros-oeuvre et mise en oeuvre,,Thesaurus,0.136476
+Matériaux et techniques du patrimoine mobilier,,Thesaurus,0.193278
+Monument Type (Scotland),,Thesaurus,0.156697
+Monument Type (Wales),,Thesaurus,0.156697
+Multilingual Egyptian Thesaurus (MET),,Thesaurus,0.209265
+Object Type (EAGLE Vocabulary),,Thesaurus,0.16127
+"Ordnøkkelen, Tesaurus for kulturminnevern (Glossary, thesaurs for Cultural Heritage)",,Thesaurus,0.047442
+Pactols,,Thesaurus,0.357675
+Period (Wales),,Thesaurus,0.042676
+Portail Biblissima,,Thesaurus,0.039021
+Profession des auteurs d'oeuvres architecturales ou mobilières - Inventaire/MH,,Thesaurus,0.147687
+"Red Vitruvio - Vocabulario controlado de arquitectura, arte, diseño y urbanismo",,Thesaurus,0.077844
+RELATIONSHIP,,Thesaurus,0.004492
+Risk Level (Wales),,Thesaurus,0.017527
+Scottish Archaeological Periods and Ages (ScAPA),,Thesaurus,0.042676
+SILKNOW - Silk Heritage Thesaurus,,Thesaurus,0.138086
+Source de l'énergie,,Thesaurus,0.077844
+State of Preservation (EAGLE Vocabulary),,Thesaurus,0.178796
+Statut de la propriété des Biens culturels,,Thesaurus,0.21892
+Structure et typologie du patrimoine mobilier - Inventaire/MH,,Thesaurus,0.133257
+Survival Condition (Wales),,Thesaurus,0.017527
+Techniques photographiques,,Thesaurus,0.010465
+Tesauro de Patrimonio Histórico Andaluz (TPHA),,Thesaurus,0.299857
+Tesauros del Patrimonio Cultural - Diccionario de Cerámica,,Thesaurus,0.133257
+Tesauros del Patrimonio Cultural - Diccionario de Contextos culturales. Culturas Euromediterráneas y de Oriente Próximo,,Thesaurus,0.042676
+Tesauros del Patrimonio Cultural - Diccionario de Denominaciones de Bienes Culturales,,Thesaurus,0.221566
+Tesauros del Patrimonio Cultural - Diccionario de Materias,,Thesaurus,0.04608
+Tesauros del Patrimonio Cultural - Diccionario de Mobiliario,,Thesaurus,0.179337
+Tesauros del Patrimonio Cultural - Diccionario de Numismática,,Thesaurus,0.223017
+Tesauros del Patrimonio Cultural - Diccionario de Técnicas,,Thesaurus,0.056223
+"Tesauros del Patrimonio Cultural - Diccionario de Toponimia histórica de la península ibérica, Baleares y Canarias",,Thesaurus,0.05681
+Tesauros del Patrimonio Cultural - Diccionario Geográfico,,Thesaurus,0.05681
+The British Museum Materials Thesaurus,,Thesaurus,0.24595
+Thésaurus de la désignation des objets mobiliers,,Thesaurus,0.211101
+Thésaurus de la désignation des œuvres architecturales et des espaces aménagés,,Thesaurus,0.077844
+Thesaurus of Musical Instruments,,Thesaurus,0.004827
+Thesaurus of the Flanders Heritage Agency,,Thesaurus,0.100483
+Thesaurus RA - Strumenti terminologici Scheda RA Reperti Archeologici,,Thesaurus,0.212109
+Thesaurus WW2,,Thesaurus,0.005455
+Thésaurus-matières pour l'indexation des archives locales,,Thesaurus,0.040156
+Thot - Dates and dating systems,,Thesaurus,0.058663
+Thot - Language,,Thesaurus,0.015987
+Thot - Material,,Thesaurus,0.062067
+Thot - Museums and Private Collections,,Thesaurus,0.076008
+Thot - Scripts,,Thesaurus,0.018532
+Thot - Technique of inscription,,Thesaurus,0.054143
+Thot - Text content,,Thesaurus,0.015987
+Type de la couverture - Inventaire/MH,,Thesaurus,0.077844
+Type et nature du couvrement - Inventaire/MH,,Thesaurus,0.077844
+Type of Inscription (EAGLE Vocabulary),,Thesaurus,0.028013
+UNESCO Thesaurus,,Thesaurus,0.047442
+Union List of the Artist Names (ULAN),,Thesaurus,0.069842
+United States Geological Survey (USGS) Thesaurus,,Thesaurus,0.069361
+University of South Carolina Shoah Foundation Thesaurus (Abridged),,Thesaurus,0.007721
+Vocabulaire des activités des entités productrices d'archives,,Thesaurus,0.040156
+Vocabulaire des altérations,,Thesaurus,0.063607
+Vocabulaire des domaines d'action ou objets des entités productrices d'archives,,Thesaurus,0.040156
+Vocabulaire pour les techniques photographiques,,Thesaurus,0.050622
+Vunerability (Wales),,Thesaurus,0.017527
+Archaeology,Archaeology,Tag,0.57298
+Archaeometry,Archaeometry,Tag,0.034926
+Architecture,Architecture,Tag,0.546079
+Getty Art & Architecture Thesaurus (AAT),,Thesaurus,0.107303
+Archival Science,Archival Science,Tag,0.226998
+Assessment,Assessment,Tag,0.089774
+Chronology,Chronology,Tag,0.28387
+Codicology,Codicology,Tag,0.014233
+4,Numismatics,Tag,0.073064
+Egyptology,Egyptology,Tag,0.085683
+Epigraphy,Epigraphy,Tag,0.164166
+Ethnography,Ethnography,Tag,0.043192
+Foundational,Foundational,Tag,0.286377
+Geography,Geography,Tag,0.375645
+Geology,Geology,Tag,0.070757
+History,History,Tag,0.036408
+History of Art,History of Art,Tag,0.189794
+Iconography,Iconography,Tag,0.013354
+Legislation,Legislation,Tag,0.046028
+List of Names,List of Names,Tag,0.05256
+Maritime History,Maritime History,Tag,0.228324
+Material Culture,Material Culture,Tag,1
+Materials,Materials,Tag,0.314088
+Military History,Military History,Tag,0.026527
+Museum Collections,Museum Collections,Tag,0.419129
+Music,Music,Tag,0.01068
+Printed Heritage,Printed Heritage,Tag,0.004009
+Production Techniques,Production Techniques,Tag,0.04915
+Prosopography,Prosopography,Tag,0.012116
+Restoration,Restoration,Tag,0.03637
+Science & Technology,Science & Technology,Tag,0.043192
+Sociology,Sociology,Tag,0.008758
+Textiles,Textiles,Tag,0.021543
+Visual Culture,Visual Culture,Tag,0.054334
+1,Ancient Languages,Tag,0
+ArchOnto,,Ontology,0.040156
+Bibliography,Bibliography,Tag,0.018347
+Inference,Inference,Tag,0.00213
+Digital Objects,Digital Objects,Tag,0.011975
+Cultural Events,Cultural Events,Tag,0.005882
+People,People,Tag,0.009816
+Data Documentation Initiative (DDI) - Lifecycle,,Ontology,0.047442
+Dublin Core Metadata Initiative (DCMI),,Ontology,0.047442
+Economic Networks and the Roman Empire,,Ontology,0.00213
+Economy,Economy,Tag,0.00213
+"Encoded Archival Context for Corporate Bodies, Persons and Families (EAC-CPF)",,Ontology,0.040156
+Encoded Archival Description (EAD),,Ontology,0.040156
+2,Textual Typologies,Tag,0
+Friend of a Friend with Benefits Ontology (FOAF+),,Ontology,0.008424
+General International Standard Archival Description (ISAD(G)),,Ontology,0.040156
+GO!-FAR,,Ontology,0.05681
+GO!-HUM,,Ontology,0.05681
+GO!-PHY,,Ontology,0.05681
+GO!-TOP,,Ontology,0.05681
+IPTC Photo Metadata Standard,,Ontology,0.047442
+Kerameikos Ontology,,Ontology,0.133257
+Linked Ancient World Data,,Ontology,0.032505
+Medieval Manuscript Ontology (MeMO),,Ontology,0.007234
+Palaeography,Palaeography & Writing,Tag,0.003431
+Monument Damage Ontology,,Ontology,0.017527
+Open Language Archives Community (OLAC),,Ontology,0.087598
+Linguistics,Linguistics,Tag,0.006658
+Visual Record Association,,Ontology,0.010465
+WGS84 Geo Positioning: An RDF vocabulary,,Ontology,0.104251
+3,Heritage Crime,Tag,0
+5,Kinship,Tag,0

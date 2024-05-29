@@ -1,0 +1,37 @@
+Id,Label,cluster,weight<occurrences>,eigencentrality
+318,Archaeology,4,14,0.218263
+392,ATR-FTIR,3,10,0.420815
+491,Biodeterioration,3,11,0.250143
+740,Chemical Composition,3,10,0.209062
+806,Cleaning,5,14,0.290548
+817,Climate Change,4,10,0.090641
+926,Conservation,3,67,1
+991,Corrosion,2,12,0.226201
+1056,Cultural Heritage,4,69,0.78313
+1146,Deep Learning,6,16,0.2375
+1155,Degradation,3,14,0.373018
+1196,Deterioration,2,10,0.268567
+1630,FORS,1,19,0.601807
+1665,FTIR,5,26,0.857345
+2091,Hyperspectral Imaging,1,18,0.616097
+2185,Influencing Factors,4,13,0.115339
+2216,Intangible Cultural Heritage,4,13,0.133804
+2553,MA-XRF,1,17,0.523698
+3240,Painting technique,1,11,0.374559
+4885,Pigments,1,32,0.76917
+3283,Parchment,2,10,0.154318
+3351,Photogrammetry,4,10,0.185691
+3379,Pigment identification,1,15,0.406142
+3541,Preventive Conservation,2,17,0.158706
+3544,Principal Component Analysis,3,12,0.383256
+3579,Provenance,3,10,0.18225
+3648,Raman,5,24,0.8393
+3655,Raman Spectroscopy,1,29,0.755332
+3721,Relative Humidity,2,13,0.054304
+3769,Restoration,4,13,0.436421
+3936,SEM,5,14,0.657318
+3952,SEM-EDS,2,23,0.597392
+4851,X-ray Fluorescence,6,10,0.501212
+4882,XRD,2,20,0.675711
+4883,XRF,1,37,0.887273
+4884,Paintings,2,11,0.268217
